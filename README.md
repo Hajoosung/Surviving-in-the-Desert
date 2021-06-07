@@ -48,8 +48,9 @@ UnityHub, Unity, Visual Studio
 # <개발멤버이름> 
 20160288 하주성, 20200268 정수빈
 
-# <라이센스> 
+# <사용한 에셋> 
 https://assetstore.unity.com/packages/3d/environments/historic/polylised-medieval-desert-city-94557 - Environment
+https://assetstore.unity.com/packages/3d/props/weapons/low-poly-fps-pack-free-sample-144839 - player
 
 # <게임기능>
 
