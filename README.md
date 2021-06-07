@@ -3,6 +3,10 @@
 영화 테이큰을 모티브로하여 아빠가 딸을 구하는 내용이 아닌 딸이 아빠를 구하러 가는 내용을 기획하여 게임 제작을 하게 되었다. 사막에 떨어진 아빠를 구하러 가면서 딸의 아빠에 대한 사랑과
 혼자 구하러 가는 대범함을 볼 수 있다. 
 
+
+
+![인터스텔라](https://user-images.githubusercontent.com/84559433/120948604-8b7d0d80-c77d-11eb-8546-b6886549efe4.jpg)
+
 1. Motive & Contents
 - 테이큰과 인터스텔라의 내용을 모티브로 하여 미지의 행성으로 딸이 아빠를 구하러 가는 내용의 콘텐츠를 제작
 2. Genre & User Target
@@ -10,7 +14,6 @@
 3.  Survive
 - 체력 시스템, 몬스터의 공격과 같은 생존에 위협되는 요소를 넣어 스릴있는 생존 게임을 만듦.
 
-![KakaoTalk_20210601_211544992](https://user-images.githubusercontent.com/84559433/120948290-e2361780-c77c-11eb-9ee2-d8f59a393ddd.png)
 
 # <실행명령 자료작성>
 
@@ -30,6 +33,12 @@ Unity 3D
 UnityHub, Unity, Visual Studio
 
 # <기획자료> 
+- 맵
+![KakaoTalk_20210601_211544992](https://user-images.githubusercontent.com/84559433/120948290-e2361780-c77c-11eb-9ee2-d8f59a393ddd.png)
+- 실행 모습
+![20210607_104336](https://user-images.githubusercontent.com/84559433/120948511-553f8e00-c77d-11eb-8f61-f5787ac8e4d8.png)
+
+
 
 # <개발멤버이름> 
 20160288 하주성, 20200268 정수빈
