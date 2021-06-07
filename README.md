@@ -10,6 +10,7 @@
 3.  Survive
 - 체력 시스템, 몬스터의 공격과 같은 생존에 위협되는 요소를 넣어 스릴있는 생존 게임을 만듦.
 
+![KakaoTalk_20210601_211544992](https://user-images.githubusercontent.com/84559433/120948290-e2361780-c77c-11eb-9ee2-d8f59a393ddd.png)
 
 # <실행명령 자료작성>
 
