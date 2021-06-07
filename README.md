@@ -7,6 +7,10 @@
 
 ![인터스텔라](https://user-images.githubusercontent.com/84559433/120948604-8b7d0d80-c77d-11eb-8546-b6886549efe4.jpg)
 
+![image](https://user-images.githubusercontent.com/84559433/120948739-ddbe2e80-c77d-11eb-9ead-d1c9abb21ee5.png)
+
+
+
 1. Motive & Contents
 - 테이큰과 인터스텔라의 내용을 모티브로 하여 미지의 행성으로 딸이 아빠를 구하러 가는 내용의 콘텐츠를 제작
 2. Genre & User Target
