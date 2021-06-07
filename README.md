@@ -5,9 +5,9 @@
 
 
 
-![인터스텔라](https://user-images.githubusercontent.com/84559433/120948604-8b7d0d80-c77d-11eb-8546-b6886549efe4.jpg)
+![인터스텔라](https://user-images.githubusercontent.com/84559433/120948604-8b7d0d80-c77d-11eb-8546-b6886549efe4.jpg)![image](https://user-images.githubusercontent.com/84559433/120948739-ddbe2e80-c77d-11eb-9ead-d1c9abb21ee5.png)
 
-![image](https://user-images.githubusercontent.com/84559433/120948739-ddbe2e80-c77d-11eb-9ead-d1c9abb21ee5.png)
+
 
 
 
